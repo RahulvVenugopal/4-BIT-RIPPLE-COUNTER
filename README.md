@@ -1,6 +1,7 @@
+### 4-BIT-RIPPLE-COUNTER
 ### Name: Rahul V
 ### Register No:212223040163
-### 4-BIT-RIPPLE-COUNTER
+
 
 **AIM:**
 
